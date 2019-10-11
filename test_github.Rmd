@@ -1,6 +1,7 @@
 ---
 title: "ESM 206/244 GitHub Testing"
 output: html_document
+name: Yani
 ---
 
 ```{r setup, include=FALSE}
@@ -13,11 +14,11 @@ Here's some code (change the variable names and values):
 ```{r}
 # Change these variable names and values:
 
-blue <- 10
+green <- 12
 
-red <- 15
+yellow <- 10
 
-purple <- blue/red
+purple <- green/yellow
 
 ```
 
